@@ -1,7 +1,4 @@
-### 🌌 NASA Astronomy Picture of the Day
-<p align="center">
-  <img src="https://raw.githubusercontent.com/w96k/nasa-apod-bot/main/apod.jpg" alt="NASA APOD" width="80%">
-</p>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2fb4bc2d-7d7a-4a50-ab79-a0fb76a8a382" />
 
 ## Hello there! I'm Álvaro Fuentes 👋
 
